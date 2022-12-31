@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 
 ## ✨I am a second year computer science student at Eastern Connecticut State University.✨
 
@@ -9,6 +9,17 @@
 - Fun Facts: I am a Gamer:video_game:, snowboarder:snowboarder:, and dj:headphones:
 
 
+## Relevant Coursework:
+- Fundementals of Computing *(python)*
+- Programming I *(Java)*
+- Programming I *(Java)*
+- Discrete Mathematics
+- Networking Fundamentals
+- Data Structures *(Java)*
+- Cyber Security & Society 
+
+
+
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -17,3 +28,11 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
+
+## My LinkedIn:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/samuel-petrucci-51360b225/)
+
+
+
+
