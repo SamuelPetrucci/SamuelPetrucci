@@ -1,6 +1,6 @@
 #Welcome!
 
-## ✨I am a second year Computer Science Major at Eastern Connecticut State University.✨
+## ✨I am a second year computer science student at Eastern Connecticut State University.✨
 
 - Computer Science and delivering user friendly services are my passion so I am working to combine the two!
 
