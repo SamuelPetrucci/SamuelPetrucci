@@ -12,7 +12,7 @@
 ## Relevant Coursework:
 - Fundementals of Computing *(python)*
 - Programming I *(Java)*
-- Programming I *(Java)*
+- Programming II *(Java)*
 - Discrete Mathematics
 - Networking Fundamentals
 - Data Structures *(Java)*
