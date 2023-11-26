@@ -1,6 +1,6 @@
 # Welcome!
 
-## ✨I am a second year Computer Science Student at Eastern Connecticut State University.✨
+I am a Third year Computer Science Student at Eastern Connecticut State University
 
 - Computer Science and delivering user friendly services are my passion so I am working to combine the two!
 
