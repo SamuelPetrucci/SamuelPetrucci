@@ -90,9 +90,8 @@ A Data Engineer and Cloud Specialist with a passion for building robust automati
 ### 🏆 Certifications
 
 <div>
-
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-46db-a157-d27315366034/image.png" alt="AWS Data Engineer" width="100" />
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Cloud Practitioner" width="100" />
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-46db-a157-d27315366034/image.png" alt="AWS Data Engineer" width="100" />
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Cloud Practitioner" width="100" />
 </div>
 
 * **AWS Certified Data Engineer – Associate**
