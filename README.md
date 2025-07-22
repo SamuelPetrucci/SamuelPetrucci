@@ -12,11 +12,22 @@ A Data Engineer and Cloud Specialist with a passion for building robust automati
 ---
 
 ### 🚀 What I Do
-
+* **Business Intelligence & Analytics:** I transform raw data into actionable insights by creating interactive dashboards and performing in-depth data analysis, helping businesses make smarter, data-driven decisions.
 * **Cloud & Data Engineering:** I design and build scalable data pipelines, leveraging AWS services (EC2, S3, Lambda, Redshift) and Infrastructure as Code principles.
 * **Automation & Systems Integration:** I create powerful automation workflows using Python and low-code tools like **n8n** to eliminate manual tasks and ensure seamless data flow between platforms.
 * **AI & Machine Learning:** I have hands-on experience developing and fine-tuning computer vision models with YOLO and leveraging generative AI to create practical, real-world applications.
 * **Full-Stack Development:** I build interactive front-end applications with React and JavaScript, connected to robust Python backends.
+
+---
+
+### 🌱 Hobbies & Interests
+
+When I'm not working with data or building in the cloud, I enjoy:
+
+* 🎮 Diving into new video games
+* 🌲 Hiking on local trails
+* 🎵 Exploring different kinds of music
+* 🚲 Bike riding and enjoying the outdoors
 
 ---
 
