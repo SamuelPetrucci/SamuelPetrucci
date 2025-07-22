@@ -114,7 +114,6 @@ A Data Engineer and Cloud Specialist with a passion for building robust automati
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
       </details>
       <br />
-      <a href="#">[Source Code]</a> 
     </td>
     <td width="50%">
       <h3>AI Stock Dashboard & Forecaster</h3>
@@ -128,8 +127,6 @@ A Data Engineer and Cloud Specialist with a passion for building robust automati
         <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws" />
       </details>
       <br />
-      <a href="#">[Source Code]</a>
-      <a href="#">[Live Demo]</a>
     </td>
   </tr>
     <tr>
@@ -157,7 +154,6 @@ A Data Engineer and Cloud Specialist with a passion for building robust automati
         <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws" />
       </details>
       <br />
-      <a href="#">[Source Code]</a>
     </td>
   </tr>
 </table>
