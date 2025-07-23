@@ -120,7 +120,6 @@ When I'm not working with data or building in the cloud, I enjoy:
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
       </details>
-      <br />
     </td>
     <td width="50%">
       <h3>AI Stock Dashboard & Forecaster</h3>
@@ -133,10 +132,9 @@ When I'm not working with data or building in the cloud, I enjoy:
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws" />
       </details>
-      <br />
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%">
       <h3>NIF AI Web Consulting</h3>
       <p>As founder, I consulted with clients to architect and build scalable, full-stack applications and data automation pipelines, often integrating with CRMs and other business-critical systems.</p>
@@ -148,7 +146,6 @@ When I'm not working with data or building in the cloud, I enjoy:
         <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazon-aws" />
         <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" />
       </details>
-      <br />
     </td>
     <td width="50%">
       <h3>Automated Weather Chatbot</h3>
@@ -160,9 +157,24 @@ When I'm not working with data or building in the cloud, I enjoy:
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws" />
       </details>
-      <br />
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI-Powered SEO Content Engine</h3>
+      <p>Engineered a full-stack application with a hands-free marketing engine that uses n8n and the OpenAI API to autonomously write and publish SEO-optimized blog posts, driving organic traffic and building brand authority.</p>
+       <details>
+        <summary>Tech Stack</summary>
+        <br />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=amazon-aws" />
+        <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws" />
+      </details>
+    </td>
+    <td width="50%">
+      </td>
+  </tr>
 </table>
-
 ---
